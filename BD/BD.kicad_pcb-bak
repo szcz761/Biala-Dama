@@ -6,7 +6,7 @@
     (area 0 0 0 0)
     (thickness 1.6)
     (drawings 4)
-    (tracks 3)
+    (tracks 0)
     (zones 0)
     (modules 57)
     (nets 67)
@@ -560,7 +560,7 @@
   )
 
   (module Capacitors_SMD:C_0201 (layer F.Cu) (tedit 5415D524) (tstamp 58309BC4)
-    (at 159.725 95)
+    (at 154.94504 87.42)
     (descr "Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0201")
     (path /5828DD4C)
@@ -725,7 +725,7 @@
   )
 
   (module Capacitors_SMD:C_0201 (layer F.Cu) (tedit 5415D524) (tstamp 58309C14)
-    (at 184.725 109.01)
+    (at 185.21304 109.01)
     (descr "Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0201")
     (path /5827422B)
@@ -758,7 +758,7 @@
   )
 
   (module Capacitors_SMD:c_elec_3x5.3 (layer F.Cu) (tedit 57FA3E93) (tstamp 58309C2E)
-    (at 164.098294 172.34836)
+    (at 160.02 186.69)
     (descr "SMT capacitor, aluminium electrolytic, 3x5.3")
     (path /582F2B6D)
     (attr smd)
@@ -804,7 +804,7 @@
   )
 
   (module Capacitors_SMD:C_0201 (layer F.Cu) (tedit 5415D524) (tstamp 58309C3E)
-    (at 163.823294 178.69836)
+    (at 159.745 193.04)
     (descr "Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0201")
     (path /582F2B4F)
@@ -916,7 +916,7 @@
   )
 
   (module Capacitors_SMD:C_0201 (layer F.Cu) (tedit 5415D524) (tstamp 58309C78)
-    (at 156.753294 178.69836 180)
+    (at 152.675 193.04 180)
     (descr "Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0201")
     (path /582F2B55)
@@ -949,7 +949,7 @@
   )
 
   (module Capacitors_SMD:c_elec_3x5.3 (layer F.Cu) (tedit 57FA3E93) (tstamp 58309C92)
-    (at 156.478294 172.34836)
+    (at 152.4 186.69)
     (descr "SMT capacitor, aluminium electrolytic, 3x5.3")
     (path /582F2B73)
     (attr smd)
@@ -1267,14 +1267,14 @@
   )
 
   (module Pin_Headers:Pin_Header_Angled_1x02 (layer F.Cu) (tedit 0) (tstamp 58309D48)
-    (at 85 162.54 180)
+    (at 82.55 170.18)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /582F2B49)
-    (fp_text reference P3 (at 0 -5.1 180) (layer F.SilkS)
+    (fp_text reference P3 (at 0 -5.1) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SILNIK1 (at 0 -3.1 180) (layer F.Fab)
+    (fp_text value SILNIK1 (at 0 -3.1) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.5 -1.75) (end -1.5 4.3) (layer F.CrtYd) (width 0.05))
@@ -1306,9 +1306,9 @@
     (fp_line (start 4.064 -0.254) (end 10.16 -0.254) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.524 1.27) (end 4.064 1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.524 -1.27) (end 1.524 1.27) (layer F.SilkS) (width 0.15))
-    (pad 1 thru_hole rect (at 0 0 180) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
+    (pad 1 thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
       (net 16 "Net-(P3-Pad1)"))
-    (pad 2 thru_hole oval (at 0 2.54 180) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
+    (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
       (net 17 "Net-(P3-Pad2)"))
     (model Pin_Headers.3dshapes/Pin_Header_Angled_1x02.wrl
       (at (xyz 0 -0.05 0))
@@ -1380,7 +1380,7 @@
   )
 
   (module "misc W:Pin_Header_Straight_1x04" (layer F.Cu) (tedit 571B19F4) (tstamp 58309D88)
-    (at 162.5 115 270)
+    (at 161.27604 118.916 270)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /5824B143)
@@ -1417,7 +1417,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Angled_1x02 (layer F.Cu) (tedit 0) (tstamp 58309DAB)
-    (at 180 157.54)
+    (at 166.37 173.99)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /582FE62E)
@@ -1890,7 +1890,7 @@
   )
 
   (module Air_Coils_SML_NEOSID:Neosid_Air-Coil_SML_1turn_HDM0131A (layer F.Cu) (tedit 56CA2F43) (tstamp 58309E7E)
-    (at 165 95)
+    (at 160.37404 87.822)
     (descr "Neosid, Air-Coil, SML, 1turn, HDM0131A,")
     (tags "Neosid Air-Coil SML 1turn HDM0131A")
     (path /5828CC7F)
@@ -2330,7 +2330,7 @@
   )
 
   (module warsztaty:TB6612 (layer F.Cu) (tedit 54130A77) (tstamp 58309F82)
-    (at 161.348294 159.94336 180)
+    (at 157.27 174.285 180)
     (descr "24-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /582FE61E)
@@ -2411,9 +2411,5 @@
   (gr_line (start 200 50) (end 200 150) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 100 50) (end 200 50) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 100 150) (end 100 50) (layer Edge.Cuts) (width 0.15))
-
-  (segment (start 184.93804 108.487238) (end 185 108.549198) (width 0.254) (layer F.Cu) (net 1))
-  (segment (start 185 108.549198) (end 185 108.581) (width 0.254) (layer F.Cu) (net 1))
-  (segment (start 185 108.581) (end 185 109.01) (width 0.254) (layer F.Cu) (net 1))
 
 )
