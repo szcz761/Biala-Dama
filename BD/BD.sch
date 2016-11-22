@@ -1263,17 +1263,17 @@ F 3 "" H 1680 6900 50  0000 C CNN
 	1    1680 6900
 	1    0    0    -1  
 $EndComp
-Text GLabel 10940 5120 2    60   Input ~ 0
+Text GLabel 4340 6320 0    60   Input ~ 0
 SHARP1
-Text GLabel 10940 5220 2    60   Input ~ 0
+Text GLabel 4340 6420 0    60   Input ~ 0
 KTIR1
-Text GLabel 10940 5320 2    60   Input ~ 0
+Text GLabel 4340 6520 0    60   Input ~ 0
 SHARP2
-Text GLabel 10940 5420 2    60   Input ~ 0
+Text GLabel 4340 6620 0    60   Input ~ 0
 SHARP3
-Text GLabel 10940 5520 2    60   Input ~ 0
+Text GLabel 10940 5920 2    60   Input ~ 0
 KTIR2
-Text GLabel 10940 5620 2    60   Input ~ 0
+Text GLabel 10940 6020 2    60   Input ~ 0
 SHARP4
 Text GLabel 1640 4200 0    60   Input ~ 0
 SHARP1
@@ -1298,17 +1298,17 @@ F 3 "" H 1400 6100 50  0000 C CNN
 	1    1400 6100
 	-1   0    0    1   
 $EndComp
-Text GLabel 4340 6320 0    60   Input ~ 0
+Text GLabel 10940 5620 2    60   Input ~ 0
 S1/IN1
-Text GLabel 4340 6420 0    60   Input ~ 0
+Text GLabel 10940 5520 2    60   Input ~ 0
 S1/IN2
-Text GLabel 10940 6120 2    60   Input ~ 0
+Text GLabel 10940 5220 2    60   Input ~ 0
 S2/IN2
-Text GLabel 10940 6020 2    60   Input ~ 0
+Text GLabel 10940 5120 2    60   Input ~ 0
 S2/IN1
-Text GLabel 4340 6520 0    60   Input ~ 0
+Text GLabel 10940 5420 2    60   Input ~ 0
 S1/PWM
-Text GLabel 4340 6620 0    60   Input ~ 0
+Text GLabel 10940 5320 2    60   Input ~ 0
 S2/PWM
 Text GLabel 4340 6220 0    60   Input ~ 0
 LED1
@@ -1348,7 +1348,6 @@ NoConn ~ 4340 5920
 NoConn ~ 4340 5420
 NoConn ~ 4340 5520
 NoConn ~ 4340 5620
-NoConn ~ 10940 5920
 NoConn ~ 10940 6320
 NoConn ~ 10940 6220
 Wire Notes Line
@@ -1974,4 +1973,5 @@ F 3 "" H 2250 940 50  0000 C CNN
 	1    2250 940 
 	1    0    0    -1  
 $EndComp
+NoConn ~ 10940 6120
 $EndSCHEMATC
