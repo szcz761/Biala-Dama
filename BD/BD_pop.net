@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\Szymon\Desktop\BD\Biala-Dama\BD\BD.sch)
-    (date "2016-11-22 19:27:32")
+    (date "2016-11-23 11:23:43")
     (tool "Eeschema 4.0.4-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -586,10 +586,10 @@
         (pin (num 23) (name PWMA) (type input))
         (pin (num 24) (name VM1) (type input)))))
   (libraries
-    (library (logical device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
+    (library (logical device)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical stm32)
       (uri "C:\\Users\\Szymon\\Desktop\\Warsztaty Robotyczne #03 - KiCad\\lib\\stm32.lib"))
     (library (logical warsztaty)
