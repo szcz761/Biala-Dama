@@ -2,11 +2,11 @@
 
   (general
     (links 166)
-    (no_connects 38)
+    (no_connects 17)
     (area 97.2375 77.3275 197.7525 150.075001)
     (thickness 1.6)
     (drawings 43)
-    (tracks 608)
+    (tracks 611)
     (zones 0)
     (modules 57)
     (nets 66)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.889)
+    (last_trace_width 0.254)
     (user_trace_width 0.254)
     (user_trace_width 0.3048)
     (user_trace_width 0.3356)
@@ -2225,8 +2225,8 @@
   (gr_line (start 115.01 127) (end 123.03 126.96) (layer Dwgs.User) (width 0.2))
   (gr_line (start 140.99 129.01) (end 115.01 129.01) (layer Dwgs.User) (width 0.2))
   (gr_line (start 140.99 141) (end 140.99 129.01) (layer Dwgs.User) (width 0.2))
-  (target plus (at 127.160328 100.595397) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5836DA45))
-  (target plus (at 168.687574 98.921426) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5836DA3D))
+  (target plus (at 127.121862 99.199841) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5836DA45))
+  (target plus (at 167.982785 99.161052) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5836DA3D))
   (gr_line (start 180 150) (end 165 150) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 180 120) (end 180 150) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 195 120) (end 180 120) (layer Edge.Cuts) (width 0.15))
@@ -2238,6 +2238,9 @@
   (gr_line (start 165 150) (end 115 150) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 100 80) (end 180 80) (layer Edge.Cuts) (width 0.15))
 
+  (segment (start 132.38 114.79) (end 132.35 114.79) (width 0.254) (layer F.Cu) (net 0))
+  (segment (start 132.35 114.79) (end 132.32 114.82) (width 0.254) (layer F.Cu) (net 0))
+  (via (at 132.32 114.82) (size 1.3) (drill 0.5) (layers F.Cu B.Cu) (net 0))
   (segment (start 131.83 83.21) (end 132.64 83.21) (width 0.3356) (layer B.Cu) (net 0))
   (via (at 132.64 83.21) (size 1.3) (drill 0.5) (layers F.Cu B.Cu) (net 0))
   (segment (start 129.39 137.29) (end 129.02 137.66) (width 0.3048) (layer B.Cu) (net 0))
