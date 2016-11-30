@@ -2,8 +2,8 @@
 
   (general
     (links 166)
-    (no_connects 31)
-    (area 90 55 237.394286 204.72)
+    (no_connects 10)
+    (area 92.3 52.19 237.394286 204.72)
     (thickness 1.6)
     (drawings 43)
     (tracks 707)
@@ -97,7 +97,7 @@
       (mirror false)
       (drillshape 1)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory ../pdf/))
   )
 
   (net 0 "")
