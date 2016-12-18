@@ -1,0 +1,1959 @@
+## Footprint report - date 12/06/16 00:45:41
+## Created by Pcbnew version kicad 4.0.4-stable
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 92.300000 52.190000
+lower_right_corner 237.394286 204.720000
+$EndBOARD
+
+$MODULE "P5"
+reference "P5"
+value "PROGRAMAT"
+footprint "Socket_Strips:Socket_Strip_Straight_1x04"
+attribut none
+position 111.290000 116.220000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Owal Layer both
+position  5.080000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Owal Layer both
+position  7.620000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P5
+
+$MODULE "U10"
+reference "U10"
+value "TB6612"
+footprint "warsztaty:TB6612"
+attribut smd
+position 160.140000 135.010000  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -3.600000 -3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -3.600000 -2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -3.600000 -2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -3.600000 -1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Prostokąt Layer front
+position -3.600000 -0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -3.600000 -0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Prostokąt Layer front
+position -3.600000  0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Prostokąt Layer front
+position -3.600000  0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Prostokąt Layer front
+position -3.600000  1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Prostokąt Layer front
+position -3.600000  2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Prostokąt Layer front
+position -3.600000  2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Prostokąt Layer front
+position -3.600000  3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Prostokąt Layer front
+position  3.600000  3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Prostokąt Layer front
+position  3.600000  2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Prostokąt Layer front
+position  3.600000  2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Prostokąt Layer front
+position  3.600000  1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Prostokąt Layer front
+position  3.600000  0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Prostokąt Layer front
+position  3.600000  0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Prostokąt Layer front
+position  3.600000 -0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Prostokąt Layer front
+position  3.600000 -0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Prostokąt Layer front
+position  3.600000 -1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Prostokąt Layer front
+position  3.600000 -2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Prostokąt Layer front
+position  3.600000 -2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Prostokąt Layer front
+position  3.600000 -3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U10
+
+$MODULE "U12"
+reference "U12"
+value "TB6612"
+footprint "warsztaty:TB6612"
+attribut smd
+position 135.110000 135.120000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -3.600000 -3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -3.600000 -2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -3.600000 -2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -3.600000 -1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Prostokąt Layer front
+position -3.600000 -0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -3.600000 -0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Prostokąt Layer front
+position -3.600000  0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Prostokąt Layer front
+position -3.600000  0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Prostokąt Layer front
+position -3.600000  1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Prostokąt Layer front
+position -3.600000  2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Prostokąt Layer front
+position -3.600000  2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Prostokąt Layer front
+position -3.600000  3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Prostokąt Layer front
+position  3.600000  3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Prostokąt Layer front
+position  3.600000  2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Prostokąt Layer front
+position  3.600000  2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Prostokąt Layer front
+position  3.600000  1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Prostokąt Layer front
+position  3.600000  0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Prostokąt Layer front
+position  3.600000  0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Prostokąt Layer front
+position  3.600000 -0.325000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Prostokąt Layer front
+position  3.600000 -0.975000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Prostokąt Layer front
+position  3.600000 -1.625000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Prostokąt Layer front
+position  3.600000 -2.275000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Prostokąt Layer front
+position  3.600000 -2.925000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Prostokąt Layer front
+position  3.600000 -3.575000  size  1.750000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U12
+
+$MODULE "C19"
+reference "C19"
+value "0.1uF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 127.550000 139.050000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C19
+
+$MODULE "SW2"
+reference "SW2"
+value "SW_PUSH"
+footprint "Buttons_Switches_ThroughHole:SW_PUSH_6mm"
+attribut none
+position 129.110000 113.040000  orientation 0.00
+layer front
+$PAD "2"
+Shape Okrąg Layer both
+position  0.000000  4.500000  size  2.000000  2.000000  orientation 90.00
+drill  1.100000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Okrąg Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 90.00
+drill  1.100000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Okrąg Layer both
+position  6.500000  4.500000  size  2.000000  2.000000  orientation 90.00
+drill  1.100000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Okrąg Layer both
+position  6.500000  0.000000  size  2.000000  2.000000  orientation 90.00
+drill  1.100000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2
+
+$MODULE "DN1"
+reference "DN1"
+value "LED2"
+footprint "LEDs:LED-5MM"
+attribut none
+position 177.440000 121.670000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.000000  1.900000  orientation 90.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Okrąg Layer both
+position  2.540000  0.000000  size  1.900000  1.900000  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  DN1
+
+$MODULE "C16"
+reference "C16"
+value "0.1uF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 127.500000 134.960000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C16
+
+$MODULE "SP1"
+reference "SP1"
+value "HCM1201X (BUZZER)"
+footprint "Buzzer_moj"
+attribut none
+position 189.660000 114.090000  orientation 270.00
+layer front
+$PAD "1"
+Shape Okrąg Layer both
+position -2.500000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Okrąg Layer both
+position  2.500000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SP1
+
+$MODULE "C1"
+reference "C1"
+value "1 uF"
+footprint "Capacitors_SMD:C_0402"
+attribut smd
+position 120.000000 90.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C2"
+reference "C2"
+value "1 uF"
+footprint "Capacitors_SMD:C_0402"
+attribut smd
+position 115.520000 106.050000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "C3"
+reference "C3"
+value "1 uF"
+footprint "Capacitors_SMD:C_0402"
+attribut smd
+position 181.350000 98.110000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C4"
+reference "C4"
+value "1 uF"
+footprint "Capacitors_SMD:C_0402"
+attribut smd
+position 168.100000 90.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C5"
+reference "C5"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 144.308548 95.031830  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C6"
+reference "C6"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 144.334568 91.571830  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "C7"
+reference "C7"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 153.984568 95.021830  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C8"
+reference "C8"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 153.954568 91.391830  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C9"
+reference "C9"
+value "0.1uF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 139.360000 122.030000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE "C10"
+reference "C10"
+value "100nF"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 154.960000 107.590000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE "C11"
+reference "C11"
+value "100nF"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 140.700000 114.550000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C11
+
+$MODULE "C12"
+reference "C12"
+value "4.7uF"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 139.040000 114.540000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C12
+
+$MODULE "C13"
+reference "C13"
+value "1uF"
+footprint "Capacitors_SMD:C_0402"
+attribut smd
+position 146.280000 118.180000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.550000  0.000000  size  0.600000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C13
+
+$MODULE "C14"
+reference "C14"
+value "10nF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 146.310000 120.230000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C14
+
+$MODULE "C15"
+reference "C15"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 124.240000 133.686020  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C15
+
+$MODULE "C17"
+reference "C17"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 170.520000 134.323980  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C17
+
+$MODULE "C18"
+reference "C18"
+value "0.1uF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 167.550000 135.400000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C18
+
+$MODULE "C20"
+reference "C20"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 124.320000 138.816020  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C20
+
+$MODULE "C21"
+reference "C21"
+value "10uF"
+footprint "Capacitors_Tantalum_SMD:TantalC_SizeR_EIA-2012"
+attribut none
+position 170.610000 138.736020  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position  1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -1.176020  0.000000  size  1.549400  1.800860  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C21
+
+$MODULE "C22"
+reference "C22"
+value "0.1uF"
+footprint "Capacitors_SMD:C_0805"
+attribut smd
+position 167.560000 139.080000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  1.000000  0.000000  size  1.000000  1.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C22
+
+$MODULE "D1"
+reference "D1"
+value "LED0"
+footprint "LEDs:LED-5MM"
+attribut none
+position 177.550000 105.770000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.000000  1.900000  orientation 90.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Okrąg Layer both
+position  2.540000  0.000000  size  1.900000  1.900000  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "DB1"
+reference "DB1"
+value "LED1"
+footprint "LEDs:LED-5MM"
+attribut none
+position 177.440000 113.770000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.000000  1.900000  orientation 90.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Okrąg Layer both
+position  2.540000  0.000000  size  1.900000  1.900000  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  DB1
+
+$MODULE "P1"
+reference "P1"
+value "bateria 7.4 V"
+footprint "Socket_Strips:Socket_Strip_Straight_1x02"
+attribut none
+position 137.850000 90.610000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "P2"
+reference "P2"
+value "HC-06 (BT)"
+footprint "Socket_Strips:Socket_Strip_Straight_1x04"
+attribut none
+position 118.710000 124.170000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Owal Layer both
+position  5.080000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Owal Layer both
+position  7.620000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P2
+
+$MODULE "P3"
+reference "P3"
+value "SILNIK1"
+footprint "Socket_Strips:Socket_Strip_Straight_1x02"
+attribut none
+position 151.480000 136.030000  orientation 90.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P3
+
+$MODULE "P4"
+reference "P4"
+value "Modol startujacy"
+footprint "Socket_Strips:Socket_Strip_Straight_1x03"
+attribut none
+position 163.990000 116.160000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Owal Layer both
+position  5.080000  0.000000  size  1.727200  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P4
+
+$MODULE "P7"
+reference "P7"
+value "SILNIK2"
+footprint "Socket_Strips:Socket_Strip_Straight_1x02"
+attribut none
+position 143.290000 136.050000  orientation 90.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  2.540000  0.000000  size  2.032000  2.032000  orientation 0.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P7
+
+$MODULE "R1"
+reference "R1"
+value "1 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 125.950000 90.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "R2"
+reference "R2"
+value "1 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 115.510000 101.380000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R3"
+reference "R3"
+value "1 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 181.350000 103.040000  orientation 90.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R4"
+reference "R4"
+value "1 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 174.050000 90.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R5"
+reference "R5"
+value "100 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 168.560000 112.920000  orientation 180.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R6"
+reference "R6"
+value "100 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 168.420000 105.590000  orientation 180.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R7"
+reference "R7"
+value "220 Ohm"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 188.250000 67.000000  orientation 0.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE "R8"
+reference "R8"
+value "10 kOhm"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 192.250000 67.000000  orientation 180.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R8
+
+$MODULE "R9"
+reference "R9"
+value "220 Ohm"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 103.880000 66.630000  orientation 0.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R9
+
+$MODULE "R10"
+reference "R10"
+value "10 kOhm"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 107.120000 66.610000  orientation 180.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE "R11"
+reference "R11"
+value "100 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 168.430000 109.950000  orientation 180.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R11
+
+$MODULE "R12"
+reference "R12"
+value "100 Ohm"
+footprint "Resistors_SMD:R_0805"
+attribut smd
+position 168.580000 116.670000  orientation 180.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  0.950000  0.000000  size  0.700000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R12
+
+$MODULE "SW1"
+reference "SW1"
+value "SPST"
+footprint "Buttons_Switches_ThroughHole:SW_DIP_x1_Slide"
+attribut none
+position 137.860000 99.480000  orientation 270.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer both
+position  0.000000  0.000000  size  1.524000  1.824000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Owal Layer both
+position  0.000000 -7.620000  size  1.524000  1.824000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1
+
+$MODULE "U1"
+reference "U1"
+value "LM1117"
+footprint "warsztaty:LM1117_SOT223"
+attribut smd
+position 145.484568 84.641830  orientation 90.00
+layer front
+$PAD "3"
+Shape Prostokąt Layer front
+position -3.100000 -2.300000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -3.100000  0.000000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position -3.100000  2.300000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  3.100000  0.000000  size  2.200000  3.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "U2"
+reference "U2"
+value "SHARP_40CM"
+footprint "warsztaty:GP2Y0D340K"
+attribut none
+position 124.000000 80.000000  orientation 0.00
+layer front
+$PAD "5"
+Shape Prostokąt Layer front
+position -5.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -2.516500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -0.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  2.483500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position  4.983500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position  7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$MODULE "U3"
+reference "U3"
+value "SHARP_40CM"
+footprint "warsztaty:GP2Y0D340K"
+attribut none
+position 104.110000 101.610000  orientation 90.00
+layer front
+$PAD "5"
+Shape Prostokąt Layer front
+position -5.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -2.516500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -0.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  2.483500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position  4.983500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position  7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U3
+
+$MODULE "U4"
+reference "U4"
+value "SHARP_40CM"
+footprint "warsztaty:GP2Y0D340K"
+attribut none
+position 190.780000 101.570000  orientation 270.00
+layer front
+$PAD "5"
+Shape Prostokąt Layer front
+position -5.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -2.516500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -0.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  2.483500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position  4.983500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position  7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U4
+
+$MODULE "U5"
+reference "U5"
+value "SHARP_40CM"
+footprint "warsztaty:GP2Y0D340K"
+attribut none
+position 172.516500 79.800000  orientation 0.00
+layer front
+$PAD "5"
+Shape Prostokąt Layer front
+position -5.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -2.516500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -0.016500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  2.483500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position  4.983500  5.143500  size  0.600000  5.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position  7.366000  5.397500  size  1.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U5
+
+$MODULE "U6"
+reference "U6"
+value "LM1117"
+footprint "warsztaty:LM1117_SOT223"
+attribut smd
+position 155.124568 84.691830  orientation 90.00
+layer front
+$PAD "3"
+Shape Prostokąt Layer front
+position -3.100000 -2.300000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -3.100000  0.000000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Prostokąt Layer front
+position -3.100000  2.300000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position  3.100000  0.000000  size  2.200000  3.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U6
+
+$MODULE "U7"
+reference "U7"
+value "KTIR0711S"
+footprint "warsztaty:KTIR0711S"
+attribut none
+position 191.035000 64.105000  orientation 270.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.905000  1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position -0.905000 -1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer back
+position  0.895000  1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer back
+position  0.895000 -1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U7
+
+$MODULE "U8"
+reference "U8"
+value "KTIR0711S"
+footprint "warsztaty:KTIR0711S"
+attribut none
+position 105.835000 63.715000  orientation 270.00
+layer back
+$PAD "1"
+Shape Prostokąt Layer back
+position -0.905000  1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer back
+position -0.905000 -1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer back
+position  0.895000  1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer back
+position  0.895000 -1.965000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U8
+
+$MODULE "U9"
+reference "U9"
+value "STM32F051C8Tx"
+footprint "STM:STM32F051C8T6"
+attribut none
+position 147.390000 111.530000  orientation 0.00
+layer front
+$PAD "1"
+Shape Prostokąt Layer front
+position -2.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Prostokąt Layer front
+position -2.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Prostokąt Layer front
+position -1.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Prostokąt Layer front
+position -1.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Prostokąt Layer front
+position -0.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Prostokąt Layer front
+position -0.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Prostokąt Layer front
+position  0.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Prostokąt Layer front
+position  0.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Prostokąt Layer front
+position  1.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Prostokąt Layer front
+position  1.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Prostokąt Layer front
+position  2.250000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Prostokąt Layer front
+position  2.750000  4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Prostokąt Layer front
+position  4.250000  2.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Prostokąt Layer front
+position  4.250000  2.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Prostokąt Layer front
+position  4.250000  1.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Prostokąt Layer front
+position  4.250000  1.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Prostokąt Layer front
+position  4.250000  0.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Prostokąt Layer front
+position  4.250000  0.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Prostokąt Layer front
+position  4.250000 -0.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Prostokąt Layer front
+position  4.250000 -0.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Prostokąt Layer front
+position  4.250000 -1.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Prostokąt Layer front
+position  4.250000 -1.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Prostokąt Layer front
+position  4.250000 -2.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Prostokąt Layer front
+position  4.250000 -2.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Prostokąt Layer front
+position  2.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Prostokąt Layer front
+position  2.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Prostokąt Layer front
+position  1.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Prostokąt Layer front
+position  1.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Prostokąt Layer front
+position  0.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Prostokąt Layer front
+position  0.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Prostokąt Layer front
+position -0.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Prostokąt Layer front
+position -0.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "33"
+Shape Prostokąt Layer front
+position -1.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "34"
+Shape Prostokąt Layer front
+position -1.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "35"
+Shape Prostokąt Layer front
+position -2.250000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "36"
+Shape Prostokąt Layer front
+position -2.750000 -4.250000  size  0.300000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "37"
+Shape Prostokąt Layer front
+position -4.250000 -2.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "38"
+Shape Prostokąt Layer front
+position -4.250000 -2.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "39"
+Shape Prostokąt Layer front
+position -4.250000 -1.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "40"
+Shape Prostokąt Layer front
+position -4.250000 -1.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "41"
+Shape Prostokąt Layer front
+position -4.250000 -0.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "42"
+Shape Prostokąt Layer front
+position -4.250000 -0.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "43"
+Shape Prostokąt Layer front
+position -4.250000  0.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "44"
+Shape Prostokąt Layer front
+position -4.250000  0.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "45"
+Shape Prostokąt Layer front
+position -4.250000  1.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "46"
+Shape Prostokąt Layer front
+position -4.250000  1.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "47"
+Shape Prostokąt Layer front
+position -4.250000  2.250000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "48"
+Shape Prostokąt Layer front
+position -4.250000  2.750000  size  1.200000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U9
+
+$EndDESCRIPTION
